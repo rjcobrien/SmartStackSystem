@@ -1,0 +1,114 @@
+Name:
+
+Smart Stack System™
+(Brand may evolve — placeholder for now)
+
+
+---
+
+🧠 Purpose:
+
+An AI-assisted supplement guidance platform built specifically for women 35+ struggling with:
+
+Hormonal imbalance (perimenopause, fatigue, anxiety, weight gain)
+
+Sleep issues (insomnia, cortisol spikes, sleep anxiety)
+
+Supplement overload or confusion (too many pills, unsure what’s working)
+
+
+
+---
+
+🎯 Target Audience:
+
+Women aged 35–60+
+
+Health-conscious but overwhelmed by supplement noise
+
+Open to holistic/natural solutions but not woo-woo
+
+Canada + U.S. focus (English-speaking first)
+
+
+
+---
+
+🔧 Application Type:
+
+> Content-Driven Wellness Funnel with Interactive Tools
+
+
+
+This is a hybrid application that combines:
+
+1. Educational content funnel (PDFs, blog, guides)
+
+
+2. Interactive tools (Stack Simplifier Quiz, Email Sequences)
+
+
+3. Affiliate commerce layer (trusted product recommendations)
+
+
+4. Service upsells (optional: stack audit, coaching)
+
+
+
+
+---
+
+📐 Feature Blueprint
+
+Feature	Description	Monetization
+
+🧾 Smart Stack Blueprint (PDF)	Free downloadable lead magnet	Leads to affiliate products
+🧠 Stack Builder Quiz	Personalized stack results based on goals	Affiliate links + email capture
+💤 Sleep / 🔥 Hormone / 🧘 Simplifier Stack Guides	Web pages or blog posts for each target stack	SEO + affiliate links
+📬 Email Sequence (7-Day)	Educates & converts users after opt-in	Drives affiliate + product sales
+💻 “Stack Audit” Service	Personalized 1-on-1 supplement feedback	Paid consults
+📓 Blog/Knowledge Hub	SEO content answering long-tail queries	Drives organic traffic
+🔗 Affiliate Product Database	Master list of trusted supplement picks	Monetized links (Canadian Protein, BulkSupplements, iHerb, etc.)
+
+
+
+---
+
+🛠️ Development Stack (Tools & Tech)
+
+Layer	Tool	Reason
+
+Frontend	Notion (MVP) or WordPress	Easy to manage content, scale with SEO
+Lead Capture	MailerLite or Systeme.io	Automate email opt-ins & sequences
+Quiz	Tally.so or Typeform	Personalized logic, embeddable
+PDF Delivery	Gumroad or Email attachment	Instant access, optional upsell
+Affiliate Tracking	Google Sheet or PrettyLinks (WP)	Organize links, monitor performance
+Future Expansion	Super.so, Ghost, Custom Web App	Scale into full wellness platform
+
+
+
+---
+
+💰 Monetization Plan
+
+Stream	Details	Timeline
+
+🟢 Affiliate Links	Supplement stack recommendations	Day 1
+🟡 Digital Product	Paid version of Smart Stack System ($17–$47)	Week 2
+🟡 “Stack Audit”	$47–$97 1-on-1 reviews	Week 3
+🔵 Sponsored Content	Partner with brands (Revolution, Just Thrive, etc.)	Month 2+
+🔵 UGC/YouTube/TikTok	Organic content with affiliate CTAs	Month 2+
+
+
+
+---
+
+📆 Development Roadmap (Weeks 1–4)
+
+Week	Goal
+
+✅ Week 1	Finalize lead magnet, Notion layout, basic blog pages
+🔄 Week 2	Set up email platform + quiz + first stack pages
+🛠 Week 3	Launch paid audit service + systematize affiliate links
+🚀 Week 4	Begin traffic strategy (SEO, Pinterest, TikTok, Reddit)
+
